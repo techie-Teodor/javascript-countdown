@@ -9,7 +9,6 @@ The inspiration for this javascript project is from dcode [Udemy Course]
 Button 1 = Start the timer<br/>
 Button 2 = Set the value of the timer<br/>
 Button 1 after-click = Pause<br/>
-
 ```addEventListener("click") - this.stop();``` 
 
 <br/>
